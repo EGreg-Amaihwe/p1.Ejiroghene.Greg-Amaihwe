@@ -68,15 +68,15 @@ __Common sequence of actions:__
 4. Look at Floor indcator screen
 5. when destination is reached and door opens, user steps out through doors
 
-Does the interface make doing those common things easier? How does the elevator support the user to figure out how to make it work?
+__Does the interface make doing those common things easier? How does the elevator support the user to figure out how to make it work?__
 
 Yes there are clear indications of functions with labels and icons. Elevator parts carry out common functions .i.e. Buttons are for pressing, key holes are key turning and pulling.
 
-How does the elevator provide feedback to the user?
+__How does the elevator provide feedback to the user?__
 
 The Elevator provides feedback with lights on buttons when pressed, an LED display screen to show direction of elevator movement and Current floor, chime sounds for when floor is reached, Alarm sounds to indicate when alarm is pressed and when sensor detects a blockage of elevators after a while, A chime sound when destination is reached and doors about to open, and blinking light indicating when emergency call is answered. 
 
-What are some common mistakes you can make with this current design?
+__What are some common mistakes you can make with this current design?__
 
 It is possible for user to mistake buttons next to each other if in a hurry because of litting spacing and labels placed on the left of each button
 
@@ -111,16 +111,16 @@ __Processing Demo of Proposed Design:__ https://youtube.com/shorts/1Pg5nLl6ij0?f
 
 ![p1 Ejirogehene Greg-Amaihwe](https://user-images.githubusercontent.com/114527383/192937898-941c7f0b-7418-4b5c-ae04-968f18e51676.gif) 
 
-__For touchscreen dimensions: 15' X 17"__
+__For touchscreen dimensions: 15" X 17"__
 
 
-Interactive and User Feedback features:
+__Interactive and User Feedback features:__
 
 1. FloorButtons light up and stay on till destiantion floor is reached
 2. There is an emergency call light to indicate when call is answered
 3. Sounds such as: chime when destination is reached and doors open, Alarm sound when alarm button is touched
 
-Other Features
+__Other Features:__
 1. Speech to text Button for visually impaired
 2. Braille to indicate "speech to text"
 3. Lower buttons and Floor Indicator to avoid neck strain of wheelchair users.
