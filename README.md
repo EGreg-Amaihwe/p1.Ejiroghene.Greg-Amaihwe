@@ -5,6 +5,19 @@ Project Description:
 The purpose of this project is to give you some practice with the material in the design of everyday things.
 We use elevators everyday. They have various designs for user controls but not all of them are designed at the best for users. Here are some examples: Analyzing elevator controls using Nielsen-Norman's Usability Heuristics
 
+# Links
+
+__Presantation page:__ 
+
+__Github repository:__  
+
+__Video:__ https://youtube.com/shorts/_IGGYEyOT3k
+
+
+
+
+#
+
 ***GETTING C:***
 
 Location: Texas Tech IMSE BUILDING 
@@ -14,6 +27,8 @@ Location: Texas Tech IMSE BUILDING
 </p>
 
 
+
+__Elevator in operation Video:__ https://youtube.com/shorts/_IGGYEyOT3k
 
 The current design is good because:
 - It provides User Feedback for every input with Lights, a Display screen as well as chime and alarm sounds.
