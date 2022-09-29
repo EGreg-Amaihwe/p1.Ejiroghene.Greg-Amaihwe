@@ -11,7 +11,9 @@ __Presantation page:__ https://github.com/EGreg-Amaihwe/p1.Ejiroghene.Greg-Amaih
 
 __Github repository:__ https://github.com/EGreg-Amaihwe/p1.Ejiroghene.Greg-Amaihwe
 
-__Video:__ https://youtube.com/shorts/_IGGYEyOT3k
+__Elevator in Use Video:__ https://youtube.com/shorts/_IGGYEyOT3k
+
+__Processing Demo of Proposed Design:__ https://youtube.com/shorts/1Pg5nLl6ij0?feature=share
 
 
 
@@ -101,20 +103,17 @@ SKETCH
 
 Now, imagine that you can have a touch screen on the elevator. To get a A, you need to:
 
-Come with your design for the touch screen? What is the screen size that you want?
+
+
+__For touchscreen dimensions: 15' X 17"__
 
 Interactive and User Feedback features:
 
 1. FloorButtons light up and stay on till destiantion floor is reached
 2. There is an emergency call light to indicate when call is answered
-3. 
+3. Sounds such as: chime when destination is reached and doors open, Alarm sound when alarm button is touched
 
-Design and implement user feedback
+Other Features
+1. Speech to text Button for visually impaired 
 
 
-
-You can get extra credits if:
-
-Your design supports people with disabilities
-You provide extra useful information on the display interface.
-Your imagination ...
