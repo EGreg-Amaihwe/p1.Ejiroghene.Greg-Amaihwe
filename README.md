@@ -9,7 +9,7 @@ We use elevators everyday. They have various designs for user controls but not a
 
 __Presantation page:__ 
 
-__Github repository:__  
+__Github repository:__ https://github.com/EGreg-Amaihwe/p1.Ejiroghene.Greg-Amaihwe
 
 __Video:__ https://youtube.com/shorts/_IGGYEyOT3k
 
