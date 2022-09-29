@@ -7,12 +7,14 @@ We use elevators everyday. They have various designs for user controls but not a
 
 ***To get a C, you need to:***
 
-Find an elevator in the apartment/hotel/airport. Only one example for each student.
 Location: Texas Tech IMSE BUILDING 
 
-Take photos of the control interface, Show a gif image of the control interface in operation: 
+<p align="center">
+<img width="242" alt="elevator interface" src="https://user-images.githubusercontent.com/114527383/192911667-9ada211f-7a39-4b31-8e7e-def40e3edf1a.png">              <img width="440" alt="Close up Elevator buttons" src="https://user-images.githubusercontent.com/114527383/192912020-f4230b61-7781-420a-a29a-b3297bb869ec.png">
+</p>
 
-Find the issues with the current design.Explain why it is good/bad
+
+
 
 The current design is good because:
 - It provides User Feedback for every input with Lights, a Display screen as well as chime and alarm sounds.
@@ -22,15 +24,9 @@ The current design is bad because:
 - LED Display screen is really high, it could cause neck strain for user standing in front or short users.  
 - Although there are potruding brailee codes beside buttons for visually impared users, braille and labelling could be confused because of spacing.
 
-<img width="440" alt="Close up Elevator buttons" src="https://user-images.githubusercontent.com/114527383/192912020-f4230b61-7781-420a-a29a-b3297bb869ec.png"> <img width="242" alt="elevator interface" src="https://user-images.githubusercontent.com/114527383/192911667-9ada211f-7a39-4b31-8e7e-def40e3edf1a.png"> 
-
-
-
 
 
 ***To get a B, you need to:***
-
-Think about the common things that you use an elevator. List your most common uses and other more rare uses. 
 
 Common uses:
 - Buttons to select destination floor (Transporting Users and/or Objects from one floor to another)
@@ -42,10 +38,6 @@ Rare uses:
 - Button and Key hole for Elevator Technician or Emergency services Personnel like a Firemen
 
 
-
-
-
-Think about how the user interacts with the elevator. What is the common sequence of actions?
 __Common sequence of actions:__
 
 1. Press outside button to call elevator
@@ -55,22 +47,47 @@ __Common sequence of actions:__
 5. when destination is reached and door opens, user steps out through doors
 
 Does the interface make doing those common things easier? How does the elevator support the user to figure out how to make it work?
+
 Yes there are clear indications of functions with labels and icons. Elevator parts carry out common functions .i.e. Buttons are for pressing, key holes are key turning and pulling.
 
 How does the elevator provide feedback to the user?
+
 The Elevator provides feedback with lights on buttons when pressed, an LED display screen to show direction of elevator movement and Current floor, chime sounds for when floor is reached, Alarm sounds to indicate when alarm is pressed and when sensor detects a blockage of elevators after a while, A chime sound when destination is reached and doors about to open, and blinking light indicating when emergency call is answered. 
 
 What are some common mistakes you can make with this current design?
+
 It is possible for user to mistake buttons next to each other if in a hurry because of litting spacing and labels placed on the left of each button
 
 Suggest the improvements to make on the control interface. Sketch your solution. And justify your design decisions.
+
+__Design improvements:__
+
+1. Better spacing and 
+2. Floor number buttons on top of each other
+3. Bringing Floor Indicator screen lower to reduce neck strain
+
+<p align="center">
+SKETCH
+</p>
+
+
+<p align="center">
+<img width="479" alt="Elevator SKETCH" src="https://user-images.githubusercontent.com/114527383/192914672-f7ccae56-297d-4454-b968-565435b3df6b.png">
+</p>
+
 
 
 
 Now, imagine that you can have a touch screen on the elevator. To get a A, you need to:
 
 Come with your design for the touch screen? What is the screen size that you want?
-Design and implement interactive features
+
+Interactive and User Feedback features:
+
+1. FloorButtons light up and stay on till destiantion floor is reached
+2. There is an emergency call light to indicate when call is answered
+3. 
+
 Design and implement user feedback
 
 
