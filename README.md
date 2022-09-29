@@ -5,14 +5,13 @@ Project Description:
 The purpose of this project is to give you some practice with the material in the design of everyday things.
 We use elevators everyday. They have various designs for user controls but not all of them are designed at the best for users. Here are some examples: Analyzing elevator controls using Nielsen-Norman's Usability Heuristics
 
-***To get a C, you need to:***
+***GETTING C:***
 
 Location: Texas Tech IMSE BUILDING 
 
 <p align="center">
 <img width="242" alt="elevator interface" src="https://user-images.githubusercontent.com/114527383/192911667-9ada211f-7a39-4b31-8e7e-def40e3edf1a.png">              <img width="440" alt="Close up Elevator buttons" src="https://user-images.githubusercontent.com/114527383/192912020-f4230b61-7781-420a-a29a-b3297bb869ec.png">
 </p>
-
 
 
 
@@ -26,7 +25,9 @@ The current design is bad because:
 
 
 
-***To get a B, you need to:***
+
+
+***GETTING B:***
 
 Common uses:
 - Buttons to select destination floor (Transporting Users and/or Objects from one floor to another)
@@ -59,6 +60,11 @@ What are some common mistakes you can make with this current design?
 It is possible for user to mistake buttons next to each other if in a hurry because of litting spacing and labels placed on the left of each button
 
 Suggest the improvements to make on the control interface. Sketch your solution. And justify your design decisions.
+
+
+
+
+***GETTING A:***
 
 __Design improvements:__
 
