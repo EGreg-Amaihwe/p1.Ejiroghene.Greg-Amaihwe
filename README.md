@@ -41,7 +41,7 @@ The current design is good because:
 - All buttons are labeled with either symbols alone or both symbols and text labels e.g. Open and close door buttons are labelled so they are not to be confused.
 
 The current design is bad because:
-- LED Display screen is really high, it could cause neck strain for user standing in front or short users.  
+- LED Display screen is really high, it could cause neck strain for users in Wheelchair or short users.  
 - Although there are potruding brailee codes beside buttons for visually impared users, braille and labelling could be confused because of spacing.
 
 
