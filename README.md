@@ -30,7 +30,7 @@ Location: Texas Tech IMSE BUILDING
 
 
 
-__Elevator in operation Video:__ https://youtube.com/shorts/_IGGYEyOT3k
+__Elevator in operation Video:__ https://youtube.com/shorts/_IGGYEyOT3k 
 
 The current design is good because:
 - It provides User Feedback for every input with Lights, a Display screen as well as chime and alarm sounds.
@@ -41,7 +41,7 @@ The current design is bad because:
 - Although there are potruding brailee codes beside buttons for visually impared users, braille and labelling could be confused because of spacing.
 
 
-
+#
 
 
 ***GETTING B:***
@@ -79,7 +79,7 @@ It is possible for user to mistake buttons next to each other if in a hurry beca
 Suggest the improvements to make on the control interface. Sketch your solution. And justify your design decisions.
 
 
-
+#
 
 ***GETTING A:***
 
@@ -99,13 +99,15 @@ SKETCH
 </p>
 
 
-
+#
 
 Now, imagine that you can have a touch screen on the elevator. To get a A, you need to:
 
-
+__Processing Demo of Proposed Design:__ https://youtube.com/shorts/1Pg5nLl6ij0?feature=share
+![p1 Ejirogehene Greg-Amaihwe](https://user-images.githubusercontent.com/114527383/192937898-941c7f0b-7418-4b5c-ae04-968f18e51676.gif) 
 
 __For touchscreen dimensions: 15' X 17"__
+
 
 Interactive and User Feedback features:
 
@@ -114,6 +116,8 @@ Interactive and User Feedback features:
 3. Sounds such as: chime when destination is reached and doors open, Alarm sound when alarm button is touched
 
 Other Features
-1. Speech to text Button for visually impaired 
+1. Speech to text Button for visually impaired
+2. Braille to indicate "speech to text"
+3. Lower buttons and Floor Indicator to avoid neck strain of wheelchair users.
 
 
