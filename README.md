@@ -22,7 +22,7 @@ The current design is bad because:
 - LED Display screen is really high, it could cause neck strain for user standing in front or short users.  
 - Although there are potruding brailee codes beside buttons for visually impared users, braille and labelling could be confused because of spacing.
 
-
+<img width="440" alt="Close up Elevator buttons" src="https://user-images.githubusercontent.com/114527383/192912020-f4230b61-7781-420a-a29a-b3297bb869ec.png"> <img width="242" alt="elevator interface" src="https://user-images.githubusercontent.com/114527383/192911667-9ada211f-7a39-4b31-8e7e-def40e3edf1a.png"> 
 
 
 
